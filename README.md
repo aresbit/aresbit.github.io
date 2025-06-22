@@ -1,4 +1,7 @@
-# aresyang blog
-about aigc and eecs
+# aresbit blog
+
+about AGI and eecs
+
+
 
 
